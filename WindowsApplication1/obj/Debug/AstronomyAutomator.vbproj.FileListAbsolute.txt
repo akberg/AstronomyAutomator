@@ -1,0 +1,282 @@
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\WindowsApplication1.AstroAutoMainForm.resources
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\2007fuei\Documents\Koding\AA 0.4-20161031T073450Z\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.2\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\2007fuei\Dropbox\Programmering\AA 0.4\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+D:\Dropbox\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.4.3\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4.3 alt.expt\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\andre\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA 0.4 2016 Build\AA 0.5.1\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\0210bean\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\andre\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.exe.config
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.MaxIm.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\Interop.ScopeSim.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.ResolveComReference.cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.exe
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.pdb
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\AstronomyAutomator.xml
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Attributes.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Controls.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\bin\Debug\ASCOM.Utilities.dll
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbprojResolveAssemblyReference.cache
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.AstroAutoMainForm.resources
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.Resources.resources
+C:\Users\2007fuei\Dropbox\tof2 programmering\AA v 1.0 RELEASE\WindowsApplication1\obj\Debug\AstronomyAutomator.vbproj.GenerateResource.Cache
